@@ -1,0 +1,185 @@
+{
+    "product":
+    [
+  {
+    "id": "tile_001",
+    "title": "Ceramic Blue Tile",
+    "description": "Premium ceramic tile with blue glaze finish",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c",
+    "category": "ceramic",
+    "price": 45.99,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Ceramic",
+    "inStock": true
+  },
+  {
+    "id": "tile_002",
+    "title": "White Marble Tile",
+    "description": "Elegant white marble flooring tile",
+    "image": "https://images.unsplash.com/photo-1582582494700-7c2c4b1e5d2f",
+    "category": "marble",
+    "price": 75.50,
+    "currency": "USD",
+    "dimensions": "80x80 cm",
+    "material": "Marble",
+    "inStock": true
+  },
+  {
+    "id": "tile_003",
+    "title": "Wood Finish Tile",
+    "description": "Natural wood style ceramic tile",
+    "image": "https://images.unsplash.com/photo-1505691938895-1758d7feb511",
+    "category": "ceramic",
+    "price": 39.99,
+    "currency": "USD",
+    "dimensions": "120x20 cm",
+    "material": "Ceramic",
+    "inStock": true
+  },
+  {
+    "id": "tile_004",
+    "title": "Black Granite Tile",
+    "description": "Durable black granite tile",
+    "image": "https://images.unsplash.com/photo-1598300053653-1c71d0b6c1d0",
+    "category": "granite",
+    "price": 85.00,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Granite",
+    "inStock": false
+  },
+  {
+    "id": "tile_005",
+    "title": "Glossy Wall Tile",
+    "description": "Glossy finish wall tile for modern interiors",
+    "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed",
+    "category": "ceramic",
+    "price": 29.99,
+    "currency": "USD",
+    "dimensions": "30x60 cm",
+    "material": "Ceramic",
+    "inStock": true
+  },
+  {
+    "id": "tile_006",
+    "title": "Bathroom Mosaic Tile",
+    "description": "Stylish mosaic tile for bathrooms",
+    "image": "https://images.unsplash.com/photo-1600566752355-35792bedcfea",
+    "category": "mosaic",
+    "price": 55.20,
+    "currency": "USD",
+    "dimensions": "30x30 cm",
+    "material": "Glass",
+    "inStock": true
+  },
+  {
+    "id": "tile_007",
+    "title": "Outdoor Stone Tile",
+    "description": "Weather-resistant outdoor stone tile",
+    "image": "https://images.unsplash.com/photo-1604014237800-1c9102c219da",
+    "category": "stone",
+    "price": 65.75,
+    "currency": "USD",
+    "dimensions": "50x50 cm",
+    "material": "Stone",
+    "inStock": true
+  },
+  {
+    "id": "tile_008",
+    "title": "Kitchen Backsplash Tile",
+    "description": "Modern kitchen backsplash tile",
+    "image": "https://images.unsplash.com/photo-1556911220-bff31c812dba",
+    "category": "ceramic",
+    "price": 34.99,
+    "currency": "USD",
+    "dimensions": "25x50 cm",
+    "material": "Ceramic",
+    "inStock": true
+  },
+  {
+    "id": "tile_009",
+    "title": "Porcelain Floor Tile",
+    "description": "High-quality porcelain floor tile",
+    "image": "https://images.unsplash.com/photo-1583845112203-454c2cde4f1d",
+    "category": "porcelain",
+    "price": 59.99,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Porcelain",
+    "inStock": false
+  },
+  {
+    "id": "tile_010",
+    "title": "Rustic Brick Tile",
+    "description": "Brick style rustic wall tile",
+    "image": "https://images.unsplash.com/photo-1560185007-cde436f6a4d0",
+    "category": "brick",
+    "price": 42.00,
+    "currency": "USD",
+    "dimensions": "30x60 cm",
+    "material": "Clay",
+    "inStock": true
+  },
+  {
+    "id": "tile_011",
+    "title": "Luxury Gold Tile",
+    "description": "Premium gold patterned tile",
+    "image": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6",
+    "category": "luxury",
+    "price": 120.00,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Ceramic",
+    "inStock": true
+  },
+  {
+    "id": "tile_012",
+    "title": "Grey Concrete Tile",
+    "description": "Minimalist concrete look tile",
+    "image": "https://images.unsplash.com/photo-1581093458791-9f3c3c5c4b0d",
+    "category": "concrete",
+    "price": 48.99,
+    "currency": "USD",
+    "dimensions": "60x60 cm",
+    "material": "Concrete",
+    "inStock": true
+  },
+  {
+    "id": "tile_013",
+    "title": "Patterned Floor Tile",
+    "description": "Decorative patterned tile for floors",
+    "image": "https://images.unsplash.com/photo-1598928506311-c55ded91a20c",
+    "category": "decorative",
+    "price": 52.30,
+    "currency": "USD",
+    "dimensions": "45x45 cm",
+    "material": "Ceramic",
+    "inStock": true
+  },
+  {
+    "id": "tile_014",
+    "title": "Glass Finish Tile",
+    "description": "Modern glass finish tile",
+    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c",
+    "category": "glass",
+    "price": 68.40,
+    "currency": "USD",
+    "dimensions": "30x60 cm",
+    "material": "Glass",
+    "inStock": false
+  },
+  {
+    "id": "tile_015",
+    "title": "Terracotta Tile",
+    "description": "Classic terracotta tile for warm interiors",
+    "image": "https://images.unsplash.com/photo-1600573472550-8090b5e0745e",
+    "category": "terracotta",
+    "price": 36.80,
+    "currency": "USD",
+    "dimensions": "40x40 cm",
+    "material": "Clay",
+    "inStock": true
+  }
+]
+}
